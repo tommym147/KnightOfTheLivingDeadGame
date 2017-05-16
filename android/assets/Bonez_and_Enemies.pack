@@ -1,0 +1,26 @@
+
+Bonez_and_Enemies.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+NES - Castlevania - Bosses
+  rotate: false
+  xy: 1, 316
+  size: 329, 507
+  orig: 329, 507
+  offset: 0, 0
+  index: -1
+NES - Castlevania - Items
+  rotate: false
+  xy: 332, 546
+  size: 486, 277
+  orig: 486, 277
+  offset: 0, 0
+  index: -1
+NES - Castlevania - Enemies
+  rotate: false
+  xy: 1, 1
+  size: 265, 313
+  orig: 265, 313
+  offset: 0, 0
+  index: -1
